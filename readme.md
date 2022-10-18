@@ -1,5 +1,13 @@
 # Github Deploy
 
+## Fork
+
+- Create a fork of this repository first
+- Then clone your copy of this repository (the fork) to your local machine
+- Try to spin up the project locally with your live server and make sure everything seems fine.
+
+## Deploy
+
 - [ ] Deploy this project to [Netlify](https://www.netlify.com/). (You can opt for other hosting services, such as [Vercel](https://vercel.com), [Cloudflare](https://pages.cloudflare.com) or even [GitHub pages](https://pages.github.com))
   - [ ] Log in or create an account
   - [ ] Add a new site (Import an existing project)
@@ -36,3 +44,5 @@ Let us show some confetti on the page when the user submits the form. We will us
 - Now you can further implement the package according to the documentation.
 
 We will change this workflow in the following weeks. A module bundler will let us import a package like this: `import JSConfetti from 'js-confetti';`
+
+Are you still able to deploy the project to Netlify?
