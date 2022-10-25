@@ -1,6 +1,7 @@
 
 
-import JSConfetti from "../node_modules/js-confetti/dist/es/index.js";
+import JSConfetti from "js-confetti";
+import "../css/style.css";
 
 
 const init = () => {
