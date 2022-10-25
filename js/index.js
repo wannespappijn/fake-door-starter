@@ -12,7 +12,8 @@ const init = () => {
     event.preventDefault();
 
     jsConfetti.addConfetti({
-      emojis: ['🥷', '	🥷', '🥷', '💩', '💩', '💩'],
+      emojis: ['🥷', '	🥷'],
+      emojiSize: 200;
     })
   });
 }
