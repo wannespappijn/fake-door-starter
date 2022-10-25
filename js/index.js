@@ -13,7 +13,7 @@ const init = () => {
 
     jsConfetti.addConfetti({
       emojis: ['🥷', '	🥷'],
-      emojiSize: 200;
+      emojiSize: 200
     })
   });
 }
