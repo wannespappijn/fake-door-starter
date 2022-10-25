@@ -12,7 +12,7 @@ const init = () => {
     event.preventDefault();
 
     jsConfetti.addConfetti({
-      emojis: ['b', '⚡️', '💥', '✨', '💫', '🌸'],
+      emojis: ['💩', '💩', '💩', '💩', '💩', '💩'],
     })
   });
 }
